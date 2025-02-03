@@ -60,12 +60,12 @@ description: "Alan Brown's personal portfolio site!"
 <div class="project-previews">
   <div class="project-slide">
     {% for category in site.data.projects %} {% for project in category.projects
-    %} {% include project-preview-card.liquid %} {% endfor %} {% endfor %}
+    %} {% include project-preview-card.html %} {% endfor %} {% endfor %}
   </div>
 
   <div class="project-slide">
     {% for category in site.data.projects %} {% for project in category.projects
-    %} {% include project-preview-card.liquid %} {% endfor %} {% endfor %}
+    %} {% include project-preview-card.html %} {% endfor %} {% endfor %}
   </div>
 </div>
 

@@ -6,14 +6,14 @@ permalink: "/projects/"
 <!-- Available vars: site.categories; categories.projects -->
 
 <div class="container">
-    {% for category in site.data.projects %}
-    <div class="project-list">
-        <h4 id="{{ category.name }}">{{ category.name }}</h4>
-        <div class="project-row">
-            {% for project in category.projects %}
-            {% include project-preview-card.liquid %}
-            {% endfor %}
-        </div>
+  {% for category in site.data.projects %}
+  <div class="project-list">
+    <h4 id="{{ category.name }}">{{ category.name }}</h4>
+    <div class="project-row">
+      {% for project in category.projects %} {% include
+      project-preview-card.html %} {% endfor %}
     </div>
-    {% endfor %}
+  </div>
+  {% endfor %}
 </div>
+

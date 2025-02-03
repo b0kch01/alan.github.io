@@ -1,34 +1,56 @@
 ---
-title: "Matthew Leipzig's Website"
+title: "Alan Brown's Porfolio"
 layout: default
 pagination:
 enabled: true
-description: "Matthew Leipzig's website!"
+description: "Alan Brown's personal portfolio site!"
 ---
 
-<div class="hero border-bottom">
+<div class="hero">
   <div class="container">
     <div class="hero-stack">
-      <img src="{{ site.baseurl }}/assets/images/sam.jpg" class="rounded-circle shadow-sm" alt="Matthew Leipzig"
-        width="100" height="100" data-aos="zoom-out" />
-      <h2 class="fancy-font">
-        <span data-aos="zoom-out" class="emoji hand-wave">👋</span>
-        <span class="text"><span data-aos="zoom-out">Hello, I'm Matthew</span></span>
+      <img
+        src="{{ site.baseurl }}/assets/images/pfp.jpg"
+        class="rounded-circle shadow-sm"
+        alt="{{ site.authors.alan.name }}"
+        width="100"
+        height="100"
+        data-aos="zoom-out"
+      />
+      <h2 class="fancy-font font-medium">
+        <!-- <span data-aos="zoom-out" class="emoji hand-wave">👋</span> -->
+        <span class="text">
+          <span data-aos="zoom-out bg-blue">Hello, my name is Alan</span>
+        </span>
       </h2>
       <p class="max-w-sm" data-aos="zoom-out" data-aos-delay="350">
-        <span class="description"> {{ site.authors.matthew.bio }} </span>
+        <span class="description"> {{ site.authors.alan.bio }} </span>
       </p>
     </div>
 
     <div class="social-bar">
-      <a aria-label="Email" data-aos="zoom-out" data-aos-delay="500" href="mailto:{{  site.authors.matthew.email }}">
+      <a
+        aria-label="Email"
+        data-aos="zoom-out"
+        data-aos-delay="500"
+        href="mailto:{{  site.authors.alan.email }}"
+      >
         <i class="fa-solid fa-envelope"></i>
       </a>
-      <a aria-label="Github" data-aos="zoom-out" data-aos-delay="600" href="{{ site.authors.matthew.github }}">
+      <a
+        aria-label="Github"
+        data-aos="zoom-out"
+        data-aos-delay="600"
+        href="{{ site.authors.alan.github }}"
+      >
         <i class="fa-brands fa-github"></i>
       </a>
-      <a aria-label="X (formerly Twitter)" data-aos="zoom-out" data-aos-delay="700"
-        href="{{ site.authors.matthew.twitter }}">
+      <a
+        aria-label="X (formerly Twitter)"
+        data-aos="zoom-out"
+        data-aos-delay="700"
+        href="{{ site.authors.alan.twitter }}"
+      >
         <i class="fa-brands fa-x-twitter"></i>
       </a>
     </div>
@@ -47,12 +69,27 @@ description: "Matthew Leipzig's website!"
   </div>
 </div>
 
+<div id="wins" class="container mb-6 mt-6">
+  <h3 class="title">
+    Work<br />
+    <span class="larger">Experience</span>
+  </h3>
+
+  {% for exp in site.data.experience %}
+  <div class="wins__row">
+    <span>{{ exp.title }}</span>
+    <span>{{ exp.location}}</span>
+    <span>{{exp.year}}</span>
+  </div>
+  {% endfor %}
+</div>
+
 <div class="container">
   {% if page.url == "/" %}
 
   <div class="row mt-3">
     <div class="col-md-8 main-loop">
-      <h4 class="font-weight-bold spanborder"><span>All Posts</span></h4>
+      <h4 class="font-weight-bold spanborder"><span>Blog Posts</span></h4>
       {% for post in paginator.posts %} {% include main-loop-card.html %} {%
       endfor %}
 
@@ -62,8 +99,11 @@ description: "Matthew Leipzig's website!"
         <ul class="pagination">
           {% if paginator.previous_page %}
           <li class="page-item">
-            <a class="page-link"
-              href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+            <a
+              class="page-link"
+              href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+              >&laquo; Prev</a
+            >
           </li>
           {% else %}
           <li class="page-item disabled">
@@ -80,8 +120,11 @@ description: "Matthew Leipzig's website!"
           </li>
           {% endif %} {% endfor %} {% if paginator.next_page %}
           <li class="page-item">
-            <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next
-              &raquo;</a>
+            <a
+              class="page-link"
+              href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+              >Next &raquo;</a
+            >
           </li>
           {% else %}
           <li class="page-item disabled">

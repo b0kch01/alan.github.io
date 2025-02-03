@@ -1,19 +1,17 @@
- # Site SEO and various texts stuff
-name: "mleipzig."
-title: "Matthew Leipzig's website"
-description: "Matt's website."
+# Site SEO and various texts stuff
+name: "Alan Brown"
+title: "Alan Brown's Website"
+description: "Alan S. Brown's personal portfolio website."
 
 # Comment out below if you want to use this site's publication feature
-scholar: "https://scholar.google.com/citations?user=5ng5MgYAAAAJ&hl=en"
+scholar: "https://scholar.google.com/citations?user=vXPGwxkAAAAJ&hl=en"
 
 authors:
-  matthew:
-    name: "Matthew Leipzig"
-    avatar: assets/images/sam.jpg
-    bio: "I write about statistics and causal inference. I also make cool coding projects in R."
-    email: mleipzig@stanford.edu
-    twitter: https://x.com/MattLeipzig
-    github: https://github.com/mleipzig
+  alan:
+    name: "Alan S. Brown"
+    avatar: "assets/images/pfp.jpg"
+    bio: "I'm a lorem ipsum dolor sit amet, consectetur adipiscing elit, ommodo consequat."
+    email: alanb@stanford.edu
 
 # Advanced config below
 
@@ -47,8 +45,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: matthew
-      avatar: assets/images/sam.jpg
+      author: alan
+      avatar: assets/images/pfp.jpg
       image: assets/images/12.jpg
 
   # (pages should be automatically assigned the page layout)
@@ -67,7 +65,6 @@ defaults:
 # Syntax
 markdown: kramdown
 highlighter: rouge
-
 
 # Pagination for blogs (sad...library doesn't extend for other lists)
 paginate: 10

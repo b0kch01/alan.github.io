@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --accent: rgba(0, 122, 255, 0.9);
   --blue: #7832e2;
   --indigo: #502c6c;
   --purple: #ad6edd;
@@ -19,7 +20,7 @@
   --gray: #6c757d;
   --gray-dark: #343a40;
   --light-blue: #e8f3ec;
-  --primary: #03a87c;
+  --primary: rgb(0, 122, 255);
   --secondary: #7832e2;
   --success: #03a87c;
   --info: #09ebaf;
@@ -183,13 +184,13 @@ sup {
 }
 
 a {
-  color: #03a87c;
+  color: var(--accent);
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 a:hover {
-  color: #025d45;
+  color: var(--accent);
   text-decoration: underline;
 }
 
@@ -2959,15 +2960,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-success {
-  color: #03a87c;
+  color: var(--accent);
   background-color: transparent;
   background-image: none;
-  border-color: #03a87c;
+  border-color: var(--accent);
 }
 .btn-outline-success:hover {
   color: #fff;
-  background-color: #03a87c;
-  border-color: #03a87c;
+  background-color: var(--accent);
+  border-color: var(--accent);
 }
 .btn-outline-success:focus,
 .btn-outline-success.focus {

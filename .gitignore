@@ -3,3 +3,4 @@ _site
 *.history
 .jekyll-cache
 *.lock
+.vercel

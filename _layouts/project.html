@@ -17,7 +17,7 @@ endif %} {% endfor %} {% endfor %}
   <h3 class="font-weight-bold spanborder"><span>{{project.name}}</span></h3>
   <div class="page-content">
     <!-- Similar to vercel site deployment card -->
-    {% unless project.disableCard %} {% if project.role && project.outcomes &&
+    {% unless project.disableCard %} {% if project.role and project.outcomes and
     project.github %}
     <div class="project-info-card">
       <!-- Image on the left -->
@@ -67,4 +67,3 @@ endif %} {% endfor %} {% endfor %}
     </div>
   </div>
 </div>
-

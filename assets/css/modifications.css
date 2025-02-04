@@ -70,6 +70,7 @@
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.05);
   transition: all 0.4s cubic-bezier(0.03, 0.78, 0.17, 0.94);
   width: 230px;
+  z-index: 5;
 }
 
 .dropdown:hover .dropdown__menu,
@@ -188,8 +189,8 @@ nav>div {
 .card__tag {
   font-size: 0.9em;
   font-weight: 500;
-  line-height: 1;
   margin-top: 16px;
+  line-height: 1;
 }
 
 .card__tag__huge {
@@ -449,7 +450,21 @@ nav>div {
   padding: 0 4rem;
 }
 
+@media (max-width: 640px) {
+  .card__ {
+    height: initial;
+  }
+
+  .card__tag {
+    line-height: inherit;
+  }
+}
+
 @media (max-width: 786px) {
+  .wins__row>span {
+    width: 40%;
+  }
+
   .hero {
     padding: 1.8rem 0;
     font-size: 0.8rem;
@@ -458,6 +473,7 @@ nav>div {
     padding-bottom: 0;
     margin-bottom: 0;
   }
+
 
   .hero-stack {
     align-items: start;

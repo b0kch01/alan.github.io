@@ -5,6 +5,10 @@ To continue adding content to the site, you only need to edit in these three pla
 Here, you can add your projects and publications.
 Feel free to add more categories as you wish.
 
+## `_data/experience.md`
+
+Simple yaml file to for showing past experiences/timeline on the home page. 
+
 ## `_projects/`
 
 After adding projects to \_data, make a new `.md` file under \_projects
@@ -35,3 +39,4 @@ Make sure to include:
 ## `_config.yml/`
 
 Can change site name, contact info, misc site settings.
+

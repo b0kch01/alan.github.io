@@ -188,6 +188,7 @@ a {
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  transition: color .2s ease-out;
 }
 
 a:hover {

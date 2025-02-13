@@ -5,15 +5,28 @@ description: "Alan S. Brown's personal portfolio website."
 
 # Comment out below if you want to use this site's publication feature
 scholar: "https://scholar.google.com/citations?user=vXPGwxkAAAAJ&hl=en"
+# For people to submit messages to you through contacts page, set up a formspree link
+formspree: "https://formspree.io/register"
 
 authors:
   alan:
     name: "Alan S. Brown"
     avatar: "assets/images/pfp.jpg"
     bio: "I'm a lorem ipsum dolor sit amet, consectetur adipiscing elit, ommodo consequat."
-    email: alanb@stanford.edu
+    email: "alanb@stanford.edu"
+    linkedin: "https://www.linkedin.com/in/alan-s-brown/"
+    # github: ... 
+    # twitter: ...
 
-# Advanced config below
+    
+# ============ [ Advanced config below ] =============
+
+# Site settings
+favicon: "assets/images/favicon.ico"
+
+baseurl: "" # For GitHub Pages without project-specific subdirectory
+disqus: "" # Comment section if you want
+mailchimp-list: "" # mailchimp newsletter if you have 
 
 # Plugins
 plugins:
@@ -26,13 +39,6 @@ plugins:
 jekyll-minifier:
   uglifier_args:
     harmony: true
-
-# Site settings
-logo: "assets/images/logo.png"
-favicon: "assets/images/favicon.ico"
-baseurl: "" # For GitHub Pages without project-specific subdirectory
-disqus: "demowebsite"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 
 # Include files to be copied to the _site directory
 include: ["_pages", "_projects"]
@@ -47,7 +53,7 @@ defaults:
       layout: post
       author: alan
       avatar: assets/images/pfp.jpg
-      image: assets/images/12.jpg
+      image: assets/images/default-blog-img.jpg
 
   # (pages should be automatically assigned the page layout)
   - scope:

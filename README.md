@@ -2,7 +2,6 @@
 
 To continue adding content to the site, you only need to edit in these three places.
 
-
 Here, you can add your projects and publications.
 Feel free to add more categories as you wish.
 
@@ -36,5 +35,3 @@ Make sure to include:
 ## `_config.yml/`
 
 Can change site name, contact info, misc site settings.
-
-Most things are 

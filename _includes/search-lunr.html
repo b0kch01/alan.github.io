@@ -1,6 +1,7 @@
 <script src="{{site.baseurl}}/assets/js/lunr.js"></script>
 
 <script>
+
   $(function() {
       $("#lunrsearchresults").on('click', '#btnx', function () {
           $('#lunrsearchresults').hide( 0 );
@@ -48,6 +49,7 @@
               <div class="modal-content">
                  <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div>
                  <div class="modal-body">
+                    <ul class="mb-0"></ul>
                  </div>
                  <div class="modal-footer"><button id="btnx" type="button" class="btn btn-sm btn-primary" data-dismiss="modal">Close</button></div>
               </div>
@@ -115,10 +117,7 @@
   }
 </style>
 
-<form
-  class="bd-search hidden-sm-down"
-  onSubmit="return lunr_search(document.getElementById('lunrsearch').value);"
->
+<form class="bd-search hidden-sm-down" id="search-bar">
   <i class="fa-solid fa-magnifying-glass text-gray"></i>
   <input
     type="text"
@@ -130,3 +129,9 @@
   />
 </form>
 
+<script>
+  $("#search-bar").submit((e) => {
+    e.preventDefault();
+    lunr_search(document.getElementById("lunrsearch").value);
+  });
+</script>

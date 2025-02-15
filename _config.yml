@@ -12,11 +12,11 @@ authors:
   alan:
     name: "Alan S. Brown"
     avatar: "assets/images/pfp.jpg"
-    bio: "Program Manager at the Stanford University Medical AI and Computer Vision Lab"
+    bio: "Program Manager and Entrepreneur"
     email: "alanb@alumni.stanford.edu"
     linkedin: "https://www.linkedin.com/in/alan-s-brown/"
     # github: ... 
-    # twitter: ...
+    twitter: "https://x.com/alan_s_brown"
 
     
 # ============ [ Advanced config below ] =============

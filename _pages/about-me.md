@@ -4,7 +4,7 @@ layout: page
 permalink: "/about-me"
 ---
 
-<img src="/assets/images/pfp.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:40px auto;"/>
+<img src="/assets/images/alan_b_casual.jpg" alt="Profile Picture" style="width:150px; border-radius:50%; display:block; margin:40px auto;"/>
 
 Hi, I'm **Alan Brown**.
 

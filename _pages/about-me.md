@@ -8,11 +8,15 @@ permalink: "/about-me"
 
 Hi, I'm **Alan Brown**.
 
-I’m a creative entrepreneur with a passion for digital innovation, storytelling, and crafting unique user experiences. With over a decade of experience in the creative industry, I transform bold ideas into visually stunning projects and innovative digital solutions.
+I’m a Program Manager in Biomedical Data Science at Stanford University, leading projects at the intersection of AI and healthcare technology. With expertise in data-driven decision-making and machine learning, I manage complex initiatives, coordinate cross-functional teams, and drive AI-powered solutions. My focus is on translating research into scalable, real-world impact, bridging the gap between innovation and implementation.
 
 ## My Journey
 
-After graduating at the top of my class from the *University of Imaginary Arts* in 2010, I set out on a creative adventure that took me from the bustling streets of New York City to the serene beaches of California. Over the years, I've collaborated with startups, global brands, and indie projects, honing my expertise in graphic design, web development, and digital marketing. My diverse experiences have taught me the value of creativity, resilience, and continuous learning.
+I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design, sparking my interest in data-driven healthcare innovation.
+
+I began my career at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices.
+
+Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
 
 <br style="clear:both;" />
 <img src="https://picsum.photos/300/200?random=1" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>

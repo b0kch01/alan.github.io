@@ -8,15 +8,11 @@ permalink: "/about-me"
 
 Hi, I'm **Alan Brown**.
 
-I’m a Program Manager in Biomedical Data Science at Stanford University, leading projects at the intersection of AI and healthcare technology. With expertise in data-driven decision-making and machine learning, I manage complex initiatives, coordinate cross-functional teams, and drive AI-powered solutions. My focus is on translating research into scalable, real-world impact, bridging the gap between innovation and implementation.
+I’m a Program Manager leading projects at the intersection of technology and healthcare. My focus is on translating research into scalable, real-world impact, bridging the gap between innovation and implementation.
 
 ## My Journey
 
-I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design, sparking my interest in data-driven healthcare innovation.
-
-I began my career at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices.
-
-Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
+I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design. I began my career at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
 
 <br style="clear:both;" />
 <img src="https://picsum.photos/300/200?random=1" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>

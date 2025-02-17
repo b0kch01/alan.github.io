@@ -8,34 +8,32 @@ permalink: "/about-me"
 
 Hi, I'm **Alan Brown**.
 
-I’m a Program Manager leading projects at the intersection of technology and healthcare. My focus is on translating research into scalable, real-world impact, bridging the gap between innovation and implementation.
+I’m a Program Manager leading projects at the intersection of technology and healthcare. My focus is on bridging the gap between innovation and implementation.
 
 ## My Journey
 
-I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design. I began my career at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
+I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design. I first applied these skills at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
 
 <br style="clear:both;" />
-<img src="https://picsum.photos/300/200?random=1" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
+<img src="/assets/images/stanford.jpg" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
 
 ## What I Do
 
-I currently lead a dynamic team at **Creative Spark Studios**, where we specialize in:
-- **Branding & Identity:** Crafting memorable logos and brand strategies.
-- **Web & App Design:** Developing intuitive, responsive digital experiences.
-- **Digital Marketing:** Designing impactful social media and digital campaigns.
+I ensure AI-driven research projects are well-executed, collaborative, and aligned with technical and operational goals.
 
-Our mission is to breathe life into imaginative ideas while ensuring every project is both functional and beautiful.
+- **AI & Data Infrastructure:** Oversee data pipelines, annotation workflows, and model development for AI-driven surgical analysis.
+- **Technical Operations:** Manage project execution, budgeting, vendor contracts, and compliance to support large-scale research and AI development.
+- **Research to Implementation:** Coordinate efforts across engineering, data science, and healthcare to develop scalable, real-world AI solutions.
 
 <br style="clear:both;" />
-<img src="https://picsum.photos/300/200?random=2" alt="Random Design" style="float:right; margin:40px; max-width:300px; border-radius:8px;"/>
+<img src="/assets/images/panama.jpg" alt="Random Design" style="float:right; margin:40px; max-width:300px; border-radius:8px;"/>
 
-## A Bit of Personal Flair
+## Beyond the Work
 
-When I'm not immersed in digital design, you can find me exploring hidden hiking trails, capturing moments with my vintage camera, or experimenting with gourmet recipes in the kitchen. I also enjoy blogging about my travels and sharing creative insights with fellow enthusiasts. For me, life is a canvas, and every experience adds a vibrant brushstroke to my story.
+Outside of work, I love exploring new places, whether it’s traveling abroad or discovering a great local coffee shop. I have a deep appreciation for psychology and enjoy understanding different perspectives and what drives people. You can also find me hiking, trying new noodle restaurants, or sharing funny stories that remind us not to take life too seriously. I believe a mix of curiosity, ambition, and a good sense of humor keeps things interesting, both in work and life.
 
-
-Feel free to explore my site and [get in touch](mailto:alan.brown@example.com) if you'd like to collaborate or simply say hello!
+Feel free to explore my site and [get in touch](mailto:alanb@alumni.stanford.edu) if you'd like to learn more about me or simply say hello!
 
 ---
 
-**Thanks for stopping by and joining me on this creative journey!**
+**Thanks for stopping by!**

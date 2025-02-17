@@ -17,6 +17,7 @@ I lead projects at the intersection of technology and healthcare. My focus is on
 
 I earned my B.A. from <a href="https://www.stanford.edu/" target="_blank">Stanford University</a>, building a foundation in data science, project management, and human-centered technology. I first applied these skills by working with wearable health technology, managing physiological data collection at the <a href="https://spl.stanford.edu/" target="_blank">Stanford Psychophysiology Lab</a> and supporting machine learning validation for Fitbit devices at <a href="https://enterprise.fitbit.com/" target="_blank">Google</a>. Now, as a Program Manager in the <a href="https://marvl.stanford.edu/" target="_blank">Stanford Medical AI & Computer Vision Lab</a>, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools for healthcare decision-making. 
 
+<br style="clear:both;" />
 
 ## What I Do
 

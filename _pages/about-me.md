@@ -27,6 +27,7 @@ I ensure AI-driven research projects are well-executed, collaborative, and align
 
 <br style="clear:both;" />
 <img src="/assets/images/panama.jpg" alt="Random Design" style="float:right; margin:40px; max-width:300px; border-radius:8px;"/>
+<br style="clear:both;" />
 
 ## Beyond the Work
 

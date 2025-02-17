@@ -8,14 +8,17 @@ permalink: "/about-me"
 
 Hi, I'm **Alan Brown**.
 
-I’m a Program Manager leading projects at the intersection of technology and healthcare. My focus is on bridging the gap between innovation and implementation.
+I lead projects at the intersection of technology and healthcare. My focus is on bridging the gap between innovation and implementation.
+
+<br style="clear:both;" />
+<img src="/assets/images/stan.jpg" alt="Stanford" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
 
 ## My Journey
 
-I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design. I first applied these skills at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
+I earned my B.A. from Stanford University, building a foundation in data science, project management, and human-centered technology. I first applied these skills by working with wearable health technology, managing physiological data collection at Stanford’s Psychophysiology Lab and supporting machine learning validation for Fitbit devices at Google. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools for healthcare decision-making. 
 
 <br style="clear:both;" />
-<img src="/assets/images/stan.jpg" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
+<img src="/assets/images/artificial_intelligence.jpg" alt="AI" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
 
 ## What I Do
 
@@ -30,7 +33,7 @@ I ensure AI-driven research projects are well-executed, collaborative, and align
 
 ## Beyond the Work
 
-Outside of work, I love exploring new places, whether it’s traveling abroad or discovering a great local coffee shop. I have a deep appreciation for psychology and enjoy understanding different perspectives and what drives people. You can also find me hiking, trying new noodle restaurants, or sharing funny stories that remind us not to take life too seriously. I believe a mix of curiosity, ambition, and a good sense of humor keeps things interesting, both in work and life.
+I love exploring new places, whether it’s traveling abroad or discovering a great local coffee shop. You can also find me hiking, trying new noodle restaurants, or sharing funny stories that remind us not to take life too seriously. I believe a mix of curiosity, ambition, and a good sense of humor keeps things interesting, both in work and life.
 
 Feel free to explore my site and [get in touch](mailto:alanb@alumni.stanford.edu) if you'd like to learn more about me or simply say hello!
 

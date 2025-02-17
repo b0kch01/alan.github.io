@@ -15,7 +15,7 @@ I’m a Program Manager leading projects at the intersection of technology and h
 I earned my B.A. from Stanford University, building a foundation in data science, technology, and human-centered design. I first applied these skills at the Stanford Psychophysiology Lab, using wearable devices to collect physiological data and gaining experience in digital health. At Google, I strengthened my project management skills, supporting validation studies of machine learning models for Fitbit devices. Now, as a Program Manager in Stanford’s Medical AI & Computer Vision Lab, I collaborate with engineers, clinicians, and data scientists to develop AI models and analytic tools that enhance healthcare decision-making.
 
 <br style="clear:both;" />
-<img src="/assets/images/stanford.jpg" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
+<img src="/assets/images/stan.jpg" alt="Random Cityscape" style="float:left; margin:40px; max-width:300px; border-radius:8px;"/>
 
 ## What I Do
 

@@ -7,13 +7,12 @@
       outcomes: Published 3 papers in top-tier journals; influenced policy decisions in 2 states
       site: https://www.example.com/causal-inference
 
-    - name: Machine Learning
-      description: Building a foundation model for diagnosing cardiac diseases on MRI and automatically identifying heterogeneous subgroups.
-      github: b0kch01/ml-cardiac-diagnosis
-      image: /assets/images/14.jpg
-      role: Lead Researcher
-      outcomes: Achieved 95% accuracy on validation datasets; identified 3 clinically relevant subgroups
-      site: https://www.example.com/ml-cardiac-diagnosis
+    - name: SOAR - Surgical Web Application 
+      description: I oversee the development of a surgical web application (SOAR) that leverages advanced AI technologies to enhance surgical education, improve patient safety, and optimize surgical performance. By employing deep learning algorithms on extensive datasets of surgical videos, our goal is to deliver actionable feedback to surgeons, helping them refine their techniques and improve patient outcomes.
+      image: surgery.jpg
+      role: Project Manager
+      outcomes: Developed a web app featuring computer vision models that detect surgical steps, identify errors, and assess skills; Integrated a video library for residents to view both their previous cases and other surgeries, with AI-generated insights for review; Implemented an upload functionality to allow users to submit their surgical videos for analysis and feedback.
+      sponsor: https://wellcomeleap.org/save/
 
 - name: Project Management
   projects:
